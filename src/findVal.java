@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Simreen {
+public class findVal {
 	private static ArrayList<String> ar = new ArrayList<String>();
 	static int c = 0;
 
