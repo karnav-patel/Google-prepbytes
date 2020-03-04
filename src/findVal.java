@@ -1,6 +1,5 @@
 /*
  * 
- * Logic and Algorithm: Simreen Kaur
  * Author: Karnav Patel
  * Date: 9/28/2019
  * 
