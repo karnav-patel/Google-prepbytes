@@ -27,7 +27,7 @@ public class findVal {
 	}
 
 	public static void main(String args[]) throws Exception {
-		Simreen ob = new Simreen();
+		object ob = new object();
 		// ob.input();
 
 		int y = 0;
